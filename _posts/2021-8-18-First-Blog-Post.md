@@ -3,15 +3,15 @@ layout: post
 title: First Blog Post
 ---
 
-**What do you think being a data scientist is about? **
+**What do you think being a data scientist is about?**
 
 Data science is about applying machine learning and predictive analyses to obtain relevant information used by clients, businesses, policy makers, etc. Data scientists understand enough about math and statistics, the domain or subject of interest, and computer science to help with decision making. They are also instrumental in using methods involving automation and machine learning. 
 
-**What do you see as the major duties and/or knowledge areas? **
+**What do you see as the major duties and/or knowledge areas?**
 
 Data science encompasses data analytics, data mining, and machine learning among other related disciplines. Data scientists possess the skills to transform unstructured data into a more useable form and apply statistical analyses and create data visualizations. They are expected to forecast the future based on previous results, as well as extract meaningful insights from data sources. 
 
-**What differences/similarities do you see between data scientists and statisticians? **
+**What differences/similarities do you see between data scientists and statisticians?**
 
 The similarities between data scientists and statisticians are that both groups of individuals understand mathematics and analyzing trends in data. Also, both groups know how to investigate problems and report their findings to non-technical audiences. The difference between data scientists and statisticians is that data scientists use more interdisciplinary skills involving programming, automation, data processing, and machine learning as opposed to statisticians. On the contrary, statisticians often use more significance tests, ANOVA, and diagnostic plots when analyzing data. 
 
