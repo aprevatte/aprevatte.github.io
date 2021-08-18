@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temp
+title: First Blog Post
 ---
 
 **What do you think being a data scientist is about? **
@@ -18,5 +18,4 @@ The similarities between data scientists and statisticians are that both groups 
 **How do you view yourself in relation to these two areas?**
 
 Currently I view myself more as a statistician with some of the skills of a data scientist. Most of my training while working as a research scientist and the skills I have gained from this program have been geared toward statistics. However, I would like to be more knowledgeable about data processing and machine learning. I am looking forward to becoming more of a data scientist by the end of this course!
-![image](https://user-images.githubusercontent.com/54520697/129975321-b35b13bf-26c0-4138-88db-a42a853461cc.png)
 
