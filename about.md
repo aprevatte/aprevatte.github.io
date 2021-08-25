@@ -12,5 +12,5 @@ Hi! My name is Alex Prevatte. I'm a Statistics MS student in my final semester a
 
 ### Contact me
 
-[awprevatte@gmail.com](mailto:email@domain.com) <br />
-https://www.linkedin.com/in/alex-prevatte-451ab5ba/
+[awprevatte@gmail.com](mailto:email@domain.com)
+
