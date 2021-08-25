@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](images/Screen Shot 2021-08-25 at 12.52.21 PM.png) 
+![](images/ScreenShot.jpg) 
 
 ### More Information
 
