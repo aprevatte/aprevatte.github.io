@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![](120350007_10222931225284931_316032785591745553_n.jpg) 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi! My name is Alex Prevatte. I'm a Statistics MS student in my final semester at NC State University. I work as an environmental economist for a small consulting firm, and see myself in the future using statistics and machine learning in relation to environmental modeling. I live in Durham, NC, and when I'm not working, I enjoy spending time outside with my family. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[awprevatte@gmail.com](mailto:email@domain.com)
+https://www.linkedin.com/in/alex-prevatte-451ab5ba/
