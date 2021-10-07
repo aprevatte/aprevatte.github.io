@@ -3,16 +3,6 @@
 Alex Prevatte
 10/7/2021
 
-``` r
-rmarkdown::render("~/NCSU/ST558/Repos/aprevatte.github.io/_Rmd/2021-Project-1-Blog-Post.Rmd", 
-              output_format = "github_document", 
-              output_dir = "~/NCSU/ST558/Repos/aprevatte.github.io/_posts/",
-              output_options = list(
-                html_preview = FALSE
-                )
-              )
-```
-
 ## Project 1 Findings
 
 This project [COVID-19](https://aprevatte.github.io/COVID19-API/)
