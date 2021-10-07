@@ -10,7 +10,7 @@ rmarkdown::render("~/NCSU/ST558/Repos/aprevatte.github.io/_Rmd/2021-Project-1-Bl
               output_options = list(
                 html_preview = FALSE
                 )
-              ))
+              )
 ```
 
 ## Project 1 Findings
