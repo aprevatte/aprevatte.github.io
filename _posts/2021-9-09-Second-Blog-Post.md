@@ -3,6 +3,16 @@ Programming Background
 Alex Prevatte
 9/9/2021
 
+``` r
+rmarkdown::render("~/NCSU/ST558/Repos/aprevatte.github.io/_Rmd/2021-9-09-Second-Blog-Post.Rmd", 
+              output_format = "github_document", 
+              output_dir = "~/NCSU/ST558/Repos/aprevatte.github.io/_posts/",
+              output_options = list(
+                html_preview = FALSE
+                )
+              )
+```
+
 ## Thoughts about R Programming Language
 
 Before taking ST558 I used R, Python, and SAS for statistics and data
@@ -27,4 +37,4 @@ flexibility in R for customization which I really like.
 plot(iris)
 ```
 
-![](../imagesunnamed-chunk-2-1.png)<!-- -->
+![](../imagesunnamed-chunk-3-1.png)<!-- -->
