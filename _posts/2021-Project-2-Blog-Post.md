@@ -7,7 +7,15 @@ Alex Prevatte
 
 This project [Online News Popularity](https://chennadebrown.github.io/Project-2/)
 involved analyzing the Online News Popularity data set from the UCI Machine 
-Learning Repository to construct predict models on article shares by topic. 
+Learning Repository to construct predictive models on article shares by topic. 
+Our team subsetted the data with parameters to automate Markdown for each article topic.
+Then, we performed exploratory data analysis on different quantitative and qualitative
+variables to observe any patterns in the data. We then divided our data into a training
+and test set and used linear regression, random forest, and boosted trees for
+predictive modeling on article shares. Our models were selected using cross-validation
+and were applied to the test sets. We conducted a comparison among models and declared 
+the winner as having the lowest RMSE. 
+
 summary statistics, and data visualizations for countries with the
 highest COVID-19 case count. I spent time writing functions that created
 dataframes for users to easily see the confirmed cases and deaths for a
