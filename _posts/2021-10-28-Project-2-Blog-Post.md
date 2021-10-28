@@ -1,4 +1,4 @@
-2020-10-28 Project 2
+2020-10-28-Project-2-Blog-Post
 ================
 Alex Prevatte
 10/28/2021
